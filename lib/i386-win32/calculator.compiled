@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="D:\lazarus\fpc\3.2.2\bin\i386-win32\fpc.exe" Date="1482329590"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -WG -l -vewnhibq -FiC:\Users\rafie\OneDrive\Documents\Programming\Courses\Solu\Lazarus\calculator\lib\i386-win32 -FuD:\lazarus\lcl\units\i386-win32\win32 -FuD:\lazarus\lcl\units\i386-win32 -FuD:\lazarus\components\freetype\lib\i386-win32 -FuD:\lazarus\components\lazutils\lib\i386-win32 -FuD:\lazarus\packager\units\i386-win32 -FuC:\Users\rafie\OneDrive\Documents\Programming\Courses\Solu\Lazarus\calculator\ -FUC:\Users\rafie\OneDrive\Documents\Programming\Courses\Solu\Lazarus\calculator\lib\i386-win32\ -FEC:\Users\rafie\OneDrive\Documents\Programming\Courses\Solu\Lazarus\calculator\ -oC:\Users\rafie\OneDrive\Documents\Programming\Courses\Solu\Lazarus\calculator\calculator.exe -dLCL -dLCLwin32 calculator.lpr"/>
-</CONFIG>
